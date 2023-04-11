@@ -25,12 +25,12 @@ global.instagram = 'https://instagram.com/prm2.0'
 global.lolkey = 'rey2k22'
 global.zenzkey = 'BagasPrdn'
 global.btc = 'Admin'
-global.apikeyaAi = 'ISI_API_OPENAI_DI_SINI' //fill apikey openai here (register https://beta.openai.com/)
+global.apikeyaAi = 'nWKi7kTXpBRsDmSaMk3aT3BlbkFJVZtdmq258SVztwLv3lMt' //fill apikey openai here (register https://beta.openai.com/)
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
-global.wm4 = '© BOT RTXZY'
+global.wm2 = '⫹⫺ DivBotz'
+global.wm3 = '© DivBotz
+global.wm4 = '© BOT DivBotz'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -38,7 +38,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nR-DivBotz'
 /*Rest api setting*/
 global.APIs = { // API Prefix
   // name: 'https://website'
