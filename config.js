@@ -29,8 +29,8 @@ global.apikeyaAi = 'nWKi7kTXpBRsDmSaMk3aT3BlbkFJVZtdmq258SVztwLv3lMt' //fill api
 global.wm = '© R-TXZY-MD'
 global.watermark = wm
 global.wm2 = '⫹⫺ DivBotz'
-global.wm3 = '© DivBotz
-global.wm4 = '© BOTDivBotz'
+global.wm3 = '© DivBotz'
+global.wm4 = '© BOT DivBotz'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
