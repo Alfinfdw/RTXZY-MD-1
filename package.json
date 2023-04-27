@@ -10,7 +10,7 @@
         "plugins": "plugins"
     },
     "scripts": {
-        "start": "node index.js",
+        "start": "node index.js --autocleartmp --autoread",
         "test": "node test.js",
         "test2": "nodemon index.js --server --autocleartmp"
     },
@@ -39,12 +39,13 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "github:amiruldev20/baileys",
+        "@adiwajshing/baileys": "github:hostinger-bot/baileyss",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^3.0.0",
         "@vitalets/google-translate-api": "^9.0.0",
         "acrcloud": "^1.4.0",
         "api-dylux": "^1.2.2",
+        "javascript-obfuscator": "^4.0.2",
         "async": "^3.2.4",
         "awesome-phonenumber": "^2.64.0",
         "axios": "^0.27.2",
